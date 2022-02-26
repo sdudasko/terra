@@ -1,1 +1,1 @@
-git clone https://github.com/luapower/terra_fork.git terra
+git clone https://github.com/sdudasko/terra_fork.git terra
